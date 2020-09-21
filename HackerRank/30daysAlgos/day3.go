@@ -3,7 +3,10 @@ package main
 import (
 	"bufio"
 	"fmt"
+	"io"
+	"os"
 	"strconv"
+	"strings"
 )
 
 func readLine(reader *bufio.Reader) string {

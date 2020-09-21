@@ -1,9 +1,7 @@
 package main
 
 import (
-	"bufio"
 	"fmt"
-	"strconv"
 )
 
 /*********** Day 4 **********/
